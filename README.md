@@ -43,13 +43,6 @@ Credit Score Monitoring: Suggested closer monitoring of credit score patterns to
 Customer Engagement: Emphasized the need for enhanced customer engagement initiatives for identified high-risk groups.
 
 
-**Dashboard**
-![image](https://github.com/user-attachments/assets/313b7cca-dc70-45c7-9ea3-cffdfe2bee63)
-![image](https://github.com/user-attachments/assets/9d7469bd-9c0f-490c-bea5-23b951d5e115)
-
-
-
-
 **Conclusion**
 This Bank Churn Analysis project provides a comprehensive approach to understanding and mitigating customer churn. 
 By combining data cleaning, SQL analysis, and Power BI visualization, valuable insights were uncovered to inform strategic decisions.
